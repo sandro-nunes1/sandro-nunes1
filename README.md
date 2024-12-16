@@ -7,7 +7,7 @@ Sou desenvolvedor com mais de 8 anos de experiência, especializado em **Progess
 ---
 
 ## 🌍 Sobre Mim
-- 🌍 **Localização**: Barueri, SP, Brasil
+- 🌍 **Localização**: Cachoeirinha, RS, Brasil
 - 💻 **Especialidade**: Progress 4GL, Python, e tecnologias web modernas.
 - 🔧 **Ferramentas**: GitHub, Postman,  WebSpeed, CI/CD, bancos de dados relacionais e não relacionais.
 - 🚀 **Objetivo**: Tornar-me Arquiteto de Soluções e aprimorar minhas habilidades.
