@@ -1,6 +1,8 @@
 ⚡ Skills:
 Progress 4GL
+
 SQL Server
+
 MySQL
 Postman API
 GitHub
