@@ -8,8 +8,7 @@ Sou desenvolvedor com mais de 8 anos de experiência, especializado em **Progess
 
 ## 🌍 Sobre Mim
 - 🌍 **Localização**: Barueri, SP, Brasil
-- 💻 **Especialidade**: ASP.NET Core, C#, Python, e tecnologias web modernas.
-- 🔧 **Ferramentas**: Docker, Kubernetes, Terraform, CI/CD, bancos de dados relacionais e não relacionais.
-- 🎯 **Atualmente**: Especialista na Zup, aplicando tecnologias de ponta para desenvolvimento e automação de infraestrutura.
-- 🚀 **Objetivo**: Tornar-me Arquiteto de Soluções e aprimorar minhas habilidades em cloud computing e DevOps.
-- 🎮 **Interesses**: Dota 2, segurança cibernética, arquitetura de software, e automação de infraestruturas com Docker.
+- 💻 **Especialidade**: Progress 4GL, Python, e tecnologias web modernas.
+- 🔧 **Ferramentas**: GitHub, Postman,  WebSpeed, CI/CD, bancos de dados relacionais e não relacionais.
+- 🚀 **Objetivo**: Tornar-me Arquiteto de Soluções e aprimorar minhas habilidades.
+- 🎮 **Interesses**: Segurança cibernética, arquitetura de software, e automação.
